@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @deploycodetec
+- 👀 I’m interested in deploy
+- 🌱 I’m currently learning deploy
+- 💞️ I’m looking to collaborate on deployment
+- 📫 How to reach me... you can't
